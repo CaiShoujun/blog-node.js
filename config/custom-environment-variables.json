@@ -1,0 +1,5 @@
+{
+    "db": {
+        "pwd": "MONGODB_LOCAL_BLOG_PASSWORD"
+    }
+}
